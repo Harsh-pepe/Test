@@ -1,0 +1,72 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "msgid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "msg_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "specnum",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "merge_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "recorded",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "merge_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "order-mnemonic",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "specurn",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "collected",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "results",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "facility",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "accid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "eid",
+    "type": "STRING"
+  }
+]

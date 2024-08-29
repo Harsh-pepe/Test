@@ -1,0 +1,137 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "msgid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "msg_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "administering_provider",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "placer_order_num",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "amount",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ndc",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "indication",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "action_code",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "merge_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "date_time_end_of_administration",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "route",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "order_status",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "medication_mnemonic",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ordering_provider",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "quantity_timing",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "strength",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "filler_order_num",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "order_control",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "administration_sub_id_counter",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "completion_status",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "units",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "date_time_start_of_administration",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "date_time_of_transaction",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "facility",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "accid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "eid",
+    "type": "STRING"
+  }
+]

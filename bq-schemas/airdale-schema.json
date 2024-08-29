@@ -1,0 +1,177 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "msgid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "msg_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "given_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "administrative_sex",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "date_time_of_birth",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "patient_merge_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "patient_merge_ts",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "patient_address",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "family_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "medical_record_urn",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "full-name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "point_of_care",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "admission_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "hospital_service",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "account_status",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "encounter_merge_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "patient_account_num",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "encounter_merge_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "bed",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "patient_class",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "admit_source",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "patient_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "room",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "diagnosis_merge_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "diagnosis_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "diagnosis_description",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "diagnosis_merge_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "diagnosis_code",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "diagnosis_coding_method",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "facility",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "medical_record_num",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "accid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "eid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "admit_date_time",
+    "type": "TIMESTAMP"
+  }
+]

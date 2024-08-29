@@ -1,0 +1,32 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "eid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "facility",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "value",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "meta",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP"
+  }
+]

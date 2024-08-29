@@ -1,0 +1,32 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "eid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "facility",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "location",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "message_control_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "service",
+    "type": "STRING"
+  },
+  {
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  }
+]

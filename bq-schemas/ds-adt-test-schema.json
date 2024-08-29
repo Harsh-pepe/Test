@@ -1,0 +1,117 @@
+[
+  {
+    "name": "eid",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "given_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "administrative_sex",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "medical_record_num",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "family_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "point_of_care",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "admission_type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "hospital_service",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "account_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "patient_account_num",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "discharge_disposition",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "bed",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "patient_class",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "patient_class_encounter_class",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "admit_source",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "patient_type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "room",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "facility",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "accommodation_code",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "date_time_of_birth",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "admit_date_time",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "discharge_date_time",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  }
+]

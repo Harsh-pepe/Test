@@ -1,0 +1,57 @@
+[
+  {
+    "name": "msgid",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "msg_ts",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "author",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "creation_ts",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "text",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "accid",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "eid",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "facility",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

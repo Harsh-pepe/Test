@@ -1,0 +1,62 @@
+[
+  {
+    "name": "isolation-precaution",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "merge_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "activity-level",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "merge_ts",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "bed",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "room",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "accnt-num",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "created-ts",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "facility",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "eid",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP",
+    "defaultValueExpression": "CURRENT_TIMESTAMP"
+  }
+]

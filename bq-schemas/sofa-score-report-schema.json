@@ -1,0 +1,22 @@
+[
+  {
+    "name": "accid",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "facility",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ymd",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "max-score",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  }
+]

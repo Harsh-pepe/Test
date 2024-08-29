@@ -1,0 +1,97 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "msgid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "msg_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "description",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "category",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "interface",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "spec-urn",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "spec-num",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "merge_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "order-control",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "merge_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "order-mnemonic",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ordered",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ordering-provider",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "status",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "observed",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "facility",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "accid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "eid",
+    "type": "STRING"
+  }
+]

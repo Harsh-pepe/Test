@@ -1,0 +1,97 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "msgid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "msg_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "placer_order_num",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "merge_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "route",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "merge_ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "medication_mnemonic",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "end_date_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ordering_provider",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "start_date_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "components",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "priority",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "condition",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "order_control",
+    "type": "JSON"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "repeat_pattern",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "facility",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "insert_timestamp",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "accid",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "eid",
+    "type": "STRING"
+  }
+]
