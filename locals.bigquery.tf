@@ -1,14 +1,14 @@
 locals {
   soj_group = [
     "group:aad_hca-soj-prod-proj@hca.corpad.net",
-    "serviceAccount:svc-soj-ff89ae@hca-soj-prod.iam.gserviceaccount.com"
+    "serviceAccount:svc-soj-aee70f@hca-soj-prod.iam.gserviceaccount.com "
   ]
   # TODO: It seems like these are redundant but I'm not positive? the dataEditor role should already be granted via the
   #  ml_group configuration which specifies the same Soj AD group and Soj service account
   soj_access = [
     {
       role     = "roles/bigquery.dataEditor", type = "user_by_email",
-      assignee = "svc-soj-ff89ae@hca-soj-prod.iam.gserviceaccount.com"
+      assignee = "svc-soj-aee70f@hca-soj-prod.iam.gserviceaccount.com "
     },
     {
       role     = "roles/bigquery.dataEditor", type = "group_by_email",
@@ -53,7 +53,7 @@ locals {
       dataset_id = "ds_feature_engineering"
       ml_group = [
         "group:aad_hca-soj-prod-proj@hca.corpad.net",
-        "serviceAccount:svc-soj-ff89ae@hca-soj-prod.iam.gserviceaccount.com"]
+        "serviceAccount:svc-soj-aee70f@hca-soj-prod.iam.gserviceaccount.com "]
       access = [
         { role     = "roles/bigquery.dataViewer", type = "group_by_email",
           assignee = "aad_clinical_data_scientist@hca.corpad.net"
@@ -104,12 +104,12 @@ locals {
       dataset_id = "sofa_reporting"
       ml_group = [
         "group:aad_hca-soj-prod-proj@hca.corpad.net",
-        "serviceAccount:svc-soj-419ca2@hca-soj-prod.iam.gserviceaccount.com"
+        "serviceAccount:svc-soj-a2e8a0@hca-soj-prod.iam.gserviceaccount.com"
       ]
       access = [
         {
           role     = "roles/bigquery.dataEditor", type = "user_by_email",
-          assignee = "svc-soj-419ca2@hca-soj-prod.iam.gserviceaccount.com"
+          assignee = "svc-soj-a2e8a0@hca-soj-prod.iam.gserviceaccount.com"
         },
 
         {
@@ -133,12 +133,12 @@ locals {
       dataset_id = "soj_reporting"
       ml_group = [
         "group:aad_hca-soj-prod-proj@hca.corpad.net",
-        "serviceAccount:svc-soj-419ca2@hca-soj-prod.iam.gserviceaccount.com"
+        "serviceAccount:svc-soj-a2e8a0@hca-soj-prod.iam.gserviceaccount.com"
       ]
       access = [
         {
           role     = "roles/bigquery.dataEditor", type = "user_by_email",
-          assignee = "svc-soj-419ca2@hca-soj-prod.iam.gserviceaccount.com"
+          assignee = "svc-soj-a2e8a0@hca-soj-prod.iam.gserviceaccount.com"
         },
 
         {
